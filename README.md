@@ -39,4 +39,4 @@ git reset --hard origin/master
 ```
 
 **pull changes from remote to local**
-'git pull origin master'
+`git pull origin master`
