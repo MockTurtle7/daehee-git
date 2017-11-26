@@ -37,3 +37,6 @@ git checkout master # make sure that we are on master branch
 git fetch origin master 
 git reset --hard origin/master
 ```
+
+**pull changes from remote to local**
+'git pull origin master'
